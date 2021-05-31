@@ -16,7 +16,7 @@
 
 ## File structure
 
-L'application est Composé de 3 dossier :
+L'application est Composé de 3 dossiers :
 
 - HTML  🟥
 - CSS   🟦
