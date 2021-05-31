@@ -32,5 +32,5 @@ Pour pouvoir lancer le projet, il suffit simplement de :
 - Executer le HTML via une extension de server (Live Server par exemple)
 
 ```bash
-cd HTML puis lancer un open live server via votre IDE.
+cd html puis lancer un open live server via votre IDE.
 ```
